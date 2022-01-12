@@ -21,7 +21,7 @@ git clone git@github.com:dlavric/terraform-null-counter.git
 cd terraform-null-counter
 ```
 
-- Initialize the Terraform code
+- Run `terraform init`, to download any external dependency
 ```shell
 terraform init
 ```
